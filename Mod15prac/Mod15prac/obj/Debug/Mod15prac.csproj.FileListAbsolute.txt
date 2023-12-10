@@ -1,0 +1,14 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\bin\Debug\Mod15prac.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\bin\Debug\Mod15prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\bin\Debug\Mod15prac.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\bin\Debug\ClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\bin\Debug\ClassLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\obj\Debug\Mod15prac.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\obj\Debug\Mod15prac.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\obj\Debug\Mod15prac.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\obj\Debug\Mod15prac.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\Mod15prac\obj\Debug\Mod15prac.pdb
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\Mod15prac\obj\Debug\Mod15prac.csproj.AssemblyReference.cache
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\Mod15prac\obj\Debug\Mod15prac.csproj.CoreCompileInputs.cache
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\Mod15prac\obj\Debug\Mod15prac.exe
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\Mod15prac\obj\Debug\Mod15prac.pdb

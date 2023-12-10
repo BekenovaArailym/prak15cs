@@ -1,0 +1,10 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\bin\Debug\ClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\bin\Debug\ClassLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod15prac\ClassLib\obj\Debug\ClassLib.pdb
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\ClassLib\obj\Debug\ClassLib.csproj.AssemblyReference.cache
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\ClassLib\obj\Debug\ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\ClassLib\obj\Debug\ClassLib.dll
+C:\Users\Arailym\source\repos\Mod15\Mod15prac\ClassLib\obj\Debug\ClassLib.pdb
